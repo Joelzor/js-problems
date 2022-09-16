@@ -3,10 +3,7 @@
 // return the length of the string 
 
 function countDigits(num) {
-  const numToString = num.toString()
-
-  return numToString.length
-  
+  return num.toString().length
 }
 
 console.log(countDigits(324))
