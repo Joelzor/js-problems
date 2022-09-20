@@ -1,6 +1,6 @@
 // function definition, takes num and length params
 //   define a new array that will store the multiples
-//   loop from 0 to the passed in length. 
+//   loop from 1 to the passed in length. 
 //     In each iteration, we need to push a new multiple to our array (i * num)
 
 //   we return the array
